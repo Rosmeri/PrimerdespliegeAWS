@@ -3,3 +3,5 @@ PUTTY GEN
 GITHUB
 GIT
 -- LLAVE PEM --
+
+git diff --- para ver cambios
